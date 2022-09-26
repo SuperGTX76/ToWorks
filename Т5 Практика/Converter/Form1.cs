@@ -1,0 +1,110 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Converter
+{
+    public partial class Converters : Form
+    {
+
+        private const int MAX_STRING_LENGHT = 10;
+
+        private string _valueToConvert = string.Empty;
+        private readonly char _comma = ',';
+
+        public Converters()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (_valueToConvert.Length >= MAX_STRING_LENGHT) 
+                return;
+            
+            AsssignNum(button1);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button0_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+
+        private void AsssignNum(Button button)
+        {
+            _valueToConvert += button.Text;
+
+            UpdateDegreesLabel();
+            UpdateRadianLabel();
+        }
+
+        private void UpdateDegreesLabel()
+        {
+            DegreeseLabel.Text = _valueToConvert;
+        }
+
+        private void UpdateRadianLabel()
+        {
+            var valueToConvert = Convert.ToDouble(_valueToConvert);
+            var radians = valueToConvert * Math.PI / 180.0d;
+            var radianText = Convert.ToString(radians).Substring(0, MAX_STRING_LENGHT);
+
+            if (radianText[radianText.Length - 1] == _comma)
+                radianText = radianText.Remove(radianText.Length - 1, 1);
+            RadianLabel.Text = radianText;
+        }
+    }
+}
