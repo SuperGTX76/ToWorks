@@ -28,63 +28,70 @@ namespace Converter
 
         }
 
+        #region Button
+
         private void button1_Click(object sender, EventArgs e)
         {
-            if (_valueToConvert.Length >= MAX_STRING_LENGHT) 
-                return;
-            
             AsssignNum(button1);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            AsssignNum(button2);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            AsssignNum(button3);
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-
+            AsssignNum(button4);
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-
+            AsssignNum(button5);
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-
+            AsssignNum(button6);
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-
+            AsssignNum(button7);
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-
+            AsssignNum(button8);
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
-
+            AsssignNum(button9);
         }
 
         private void button0_Click(object sender, EventArgs e)
         {
+            if(_valueToConvert.Length < 1)
+                return;
 
+            AsssignNum(button0);
         }
+
+        #endregion
 
 
 
         private void AsssignNum(Button button)
         {
+            if(_valueToConvert.Length >= MAX_STRING_LENGHT)
+                return;
+
             _valueToConvert += button.Text;
 
             UpdateDegreesLabel();
@@ -106,5 +113,46 @@ namespace Converter
                 radianText = radianText.Remove(radianText.Length - 1, 1);
             RadianLabel.Text = radianText;
         }
+
+        private void Comma_Click(object sender, EventArgs e)
+        {
+            if (_valueToConvert.Contains(_comma))
+                return;
+
+            if(_valueToConvert.Length < 1)
+                return;
+
+            AsssignNum(Comma);
+        }
+
+        private void negativeButton_Click(object sender, EventArgs e)
+        {
+            if (_valueToConvert.Length < 1)
+                return;
+
+            var value = Convert.ToDouble(_valueToConvert) * -1;
+            _valueToConvert = value.ToString();
+
+            UpdateDegreesLabel();
+            UpdateRadianLabel();
+        }
+
+        private void buttonCE_Click(object sender, EventArgs e)
+        {
+            if (_valueToConvert.Length < 1)
+                return;
+
+            AssignClearBatton();
+        }
+
+        private void AssignClearBatton()
+        {
+            _valueToConvert = String.Empty;
+            DegreeseLabel.Text = "0";
+            RadianLabel.Text="0";
+
+        }
+
+
     }
 }

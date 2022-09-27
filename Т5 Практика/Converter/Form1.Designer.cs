@@ -60,6 +60,7 @@
             this.negativeButton.TabIndex = 1;
             this.negativeButton.Text = "-/+";
             this.negativeButton.UseVisualStyleBackColor = false;
+            this.negativeButton.Click += new System.EventHandler(this.negativeButton_Click);
             // 
             // button0
             // 
@@ -87,6 +88,7 @@
             this.Comma.TabIndex = 3;
             this.Comma.Text = ",";
             this.Comma.UseVisualStyleBackColor = false;
+            this.Comma.Click += new System.EventHandler(this.Comma_Click);
             // 
             // button3
             // 
@@ -239,6 +241,7 @@
             this.buttonCE.TabIndex = 13;
             this.buttonCE.Text = "CE";
             this.buttonCE.UseVisualStyleBackColor = false;
+            this.buttonCE.Click += new System.EventHandler(this.buttonCE_Click);
             // 
             // DegreeseLabel
             // 
