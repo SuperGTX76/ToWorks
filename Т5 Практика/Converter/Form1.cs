@@ -82,6 +82,42 @@ namespace Converter
 
             AsssignNum(button0);
         }
+        
+        private void negativeButton_Click(object sender, EventArgs e)
+        {
+            if (_valueToConvert.Length < 1)
+                return;
+
+            var value = Convert.ToDouble(_valueToConvert) * -1;
+            _valueToConvert = value.ToString();
+
+            UpdateDegreesLabel();
+            UpdateRadianLabel();
+        }
+
+        private void buttonCE_Click(object sender, EventArgs e)
+        {
+            if (_valueToConvert.Length < 1)
+                return;
+
+            AssignZeroValue();
+        }
+        
+        private void buttonBS_Click(object sender, EventArgs e)
+        {
+
+            if (_valueToConvert.Length <= 1)
+            {
+                AssignZeroValue();
+                return;
+            }
+
+
+            _valueToConvert = _valueToConvert.Remove(_valueToConvert.Length - 1, 1);
+
+            UpdateDegreesLabel();
+            UpdateRadianLabel();
+        }
 
         #endregion
 
@@ -125,27 +161,9 @@ namespace Converter
             AsssignNum(Comma);
         }
 
-        private void negativeButton_Click(object sender, EventArgs e)
-        {
-            if (_valueToConvert.Length < 1)
-                return;
+        
 
-            var value = Convert.ToDouble(_valueToConvert) * -1;
-            _valueToConvert = value.ToString();
-
-            UpdateDegreesLabel();
-            UpdateRadianLabel();
-        }
-
-        private void buttonCE_Click(object sender, EventArgs e)
-        {
-            if (_valueToConvert.Length < 1)
-                return;
-
-            AssignClearBatton();
-        }
-
-        private void AssignClearBatton()
+        private void AssignZeroValue()
         {
             _valueToConvert = String.Empty;
             DegreeseLabel.Text = "0";
@@ -153,6 +171,6 @@ namespace Converter
 
         }
 
-
+        
     }
 }

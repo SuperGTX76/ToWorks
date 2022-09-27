@@ -54,9 +54,10 @@
             this.negativeButton.FlatAppearance.BorderSize = 0;
             this.negativeButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.negativeButton.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.negativeButton.Location = new System.Drawing.Point(782, 336);
+            this.negativeButton.Location = new System.Drawing.Point(586, 273);
+            this.negativeButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.negativeButton.Name = "negativeButton";
-            this.negativeButton.Size = new System.Drawing.Size(125, 75);
+            this.negativeButton.Size = new System.Drawing.Size(94, 61);
             this.negativeButton.TabIndex = 1;
             this.negativeButton.Text = "-/+";
             this.negativeButton.UseVisualStyleBackColor = false;
@@ -68,9 +69,10 @@
             this.button0.FlatAppearance.BorderSize = 0;
             this.button0.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button0.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button0.Location = new System.Drawing.Point(913, 336);
+            this.button0.Location = new System.Drawing.Point(685, 273);
+            this.button0.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button0.Name = "button0";
-            this.button0.Size = new System.Drawing.Size(125, 75);
+            this.button0.Size = new System.Drawing.Size(94, 61);
             this.button0.TabIndex = 2;
             this.button0.Text = "0";
             this.button0.UseVisualStyleBackColor = false;
@@ -82,9 +84,10 @@
             this.Comma.FlatAppearance.BorderSize = 0;
             this.Comma.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Comma.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Comma.Location = new System.Drawing.Point(1044, 336);
+            this.Comma.Location = new System.Drawing.Point(783, 273);
+            this.Comma.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Comma.Name = "Comma";
-            this.Comma.Size = new System.Drawing.Size(125, 75);
+            this.Comma.Size = new System.Drawing.Size(94, 61);
             this.Comma.TabIndex = 3;
             this.Comma.Text = ",";
             this.Comma.UseVisualStyleBackColor = false;
@@ -96,9 +99,10 @@
             this.button3.FlatAppearance.BorderSize = 0;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(1044, 255);
+            this.button3.Location = new System.Drawing.Point(783, 207);
+            this.button3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(125, 75);
+            this.button3.Size = new System.Drawing.Size(94, 61);
             this.button3.TabIndex = 6;
             this.button3.Text = "3";
             this.button3.UseVisualStyleBackColor = false;
@@ -110,9 +114,10 @@
             this.button2.FlatAppearance.BorderSize = 0;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(913, 255);
+            this.button2.Location = new System.Drawing.Point(685, 207);
+            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(125, 75);
+            this.button2.Size = new System.Drawing.Size(94, 61);
             this.button2.TabIndex = 5;
             this.button2.Text = "2";
             this.button2.UseVisualStyleBackColor = false;
@@ -124,9 +129,10 @@
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(782, 255);
+            this.button1.Location = new System.Drawing.Point(586, 207);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(125, 75);
+            this.button1.Size = new System.Drawing.Size(94, 61);
             this.button1.TabIndex = 4;
             this.button1.Text = "1";
             this.button1.UseVisualStyleBackColor = false;
@@ -138,9 +144,10 @@
             this.button9.FlatAppearance.BorderSize = 0;
             this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button9.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button9.Location = new System.Drawing.Point(1044, 93);
+            this.button9.Location = new System.Drawing.Point(783, 76);
+            this.button9.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(125, 75);
+            this.button9.Size = new System.Drawing.Size(94, 61);
             this.button9.TabIndex = 9;
             this.button9.Text = "9";
             this.button9.UseVisualStyleBackColor = false;
@@ -152,9 +159,10 @@
             this.button8.FlatAppearance.BorderSize = 0;
             this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button8.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button8.Location = new System.Drawing.Point(913, 93);
+            this.button8.Location = new System.Drawing.Point(685, 76);
+            this.button8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(125, 75);
+            this.button8.Size = new System.Drawing.Size(94, 61);
             this.button8.TabIndex = 8;
             this.button8.Text = "8";
             this.button8.UseVisualStyleBackColor = false;
@@ -166,9 +174,10 @@
             this.button7.FlatAppearance.BorderSize = 0;
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button7.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button7.Location = new System.Drawing.Point(782, 93);
+            this.button7.Location = new System.Drawing.Point(586, 76);
+            this.button7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(125, 75);
+            this.button7.Size = new System.Drawing.Size(94, 61);
             this.button7.TabIndex = 7;
             this.button7.Text = "7";
             this.button7.UseVisualStyleBackColor = false;
@@ -180,9 +189,10 @@
             this.button6.FlatAppearance.BorderSize = 0;
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button6.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button6.Location = new System.Drawing.Point(1044, 174);
+            this.button6.Location = new System.Drawing.Point(783, 141);
+            this.button6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(125, 75);
+            this.button6.Size = new System.Drawing.Size(94, 61);
             this.button6.TabIndex = 12;
             this.button6.Text = "6";
             this.button6.UseVisualStyleBackColor = false;
@@ -194,9 +204,10 @@
             this.button5.FlatAppearance.BorderSize = 0;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.Location = new System.Drawing.Point(913, 174);
+            this.button5.Location = new System.Drawing.Point(685, 141);
+            this.button5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(125, 75);
+            this.button5.Size = new System.Drawing.Size(94, 61);
             this.button5.TabIndex = 11;
             this.button5.Text = "5";
             this.button5.UseVisualStyleBackColor = false;
@@ -208,9 +219,10 @@
             this.button4.FlatAppearance.BorderSize = 0;
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(782, 174);
+            this.button4.Location = new System.Drawing.Point(586, 141);
+            this.button4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(125, 75);
+            this.button4.Size = new System.Drawing.Size(94, 61);
             this.button4.TabIndex = 10;
             this.button4.Text = "4";
             this.button4.UseVisualStyleBackColor = false;
@@ -222,12 +234,14 @@
             this.buttonBS.FlatAppearance.BorderSize = 0;
             this.buttonBS.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonBS.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonBS.Location = new System.Drawing.Point(1044, 12);
+            this.buttonBS.Location = new System.Drawing.Point(783, 10);
+            this.buttonBS.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.buttonBS.Name = "buttonBS";
-            this.buttonBS.Size = new System.Drawing.Size(125, 75);
+            this.buttonBS.Size = new System.Drawing.Size(94, 61);
             this.buttonBS.TabIndex = 14;
             this.buttonBS.Text = "BS";
             this.buttonBS.UseVisualStyleBackColor = false;
+            this.buttonBS.Click += new System.EventHandler(this.buttonBS_Click);
             // 
             // buttonCE
             // 
@@ -235,9 +249,10 @@
             this.buttonCE.FlatAppearance.BorderSize = 0;
             this.buttonCE.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonCE.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonCE.Location = new System.Drawing.Point(913, 12);
+            this.buttonCE.Location = new System.Drawing.Point(685, 10);
+            this.buttonCE.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.buttonCE.Name = "buttonCE";
-            this.buttonCE.Size = new System.Drawing.Size(125, 75);
+            this.buttonCE.Size = new System.Drawing.Size(94, 61);
             this.buttonCE.TabIndex = 13;
             this.buttonCE.Text = "CE";
             this.buttonCE.UseVisualStyleBackColor = false;
@@ -247,9 +262,10 @@
             // 
             this.DegreeseLabel.AutoSize = true;
             this.DegreeseLabel.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold);
-            this.DegreeseLabel.Location = new System.Drawing.Point(12, 12);
+            this.DegreeseLabel.Location = new System.Drawing.Point(9, 10);
+            this.DegreeseLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.DegreeseLabel.Name = "DegreeseLabel";
-            this.DegreeseLabel.Size = new System.Drawing.Size(42, 47);
+            this.DegreeseLabel.Size = new System.Drawing.Size(35, 38);
             this.DegreeseLabel.TabIndex = 15;
             this.DegreeseLabel.Text = "0";
             // 
@@ -257,9 +273,10 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold);
-            this.label2.Location = new System.Drawing.Point(12, 93);
+            this.label2.Location = new System.Drawing.Point(9, 76);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(187, 47);
+            this.label2.Size = new System.Drawing.Size(151, 38);
             this.label2.TabIndex = 16;
             this.label2.Text = "Градусы";
             // 
@@ -267,9 +284,10 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold);
-            this.label3.Location = new System.Drawing.Point(12, 283);
+            this.label3.Location = new System.Drawing.Point(9, 230);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(194, 47);
+            this.label3.Size = new System.Drawing.Size(155, 38);
             this.label3.TabIndex = 18;
             this.label3.Text = "Радианы";
             // 
@@ -277,18 +295,19 @@
             // 
             this.RadianLabel.AutoSize = true;
             this.RadianLabel.Font = new System.Drawing.Font("Microsoft JhengHei", 22.2F, System.Drawing.FontStyle.Bold);
-            this.RadianLabel.Location = new System.Drawing.Point(12, 202);
+            this.RadianLabel.Location = new System.Drawing.Point(9, 164);
+            this.RadianLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.RadianLabel.Name = "RadianLabel";
-            this.RadianLabel.Size = new System.Drawing.Size(42, 47);
+            this.RadianLabel.Size = new System.Drawing.Size(35, 38);
             this.RadianLabel.TabIndex = 17;
             this.RadianLabel.Text = "0";
             // 
             // Converters
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
-            this.ClientSize = new System.Drawing.Size(1178, 421);
+            this.ClientSize = new System.Drawing.Size(884, 342);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.RadianLabel);
             this.Controls.Add(this.label2);
@@ -308,6 +327,7 @@
             this.Controls.Add(this.button0);
             this.Controls.Add(this.negativeButton);
             this.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Converters";
             this.Text = "Converters";
             this.Load += new System.EventHandler(this.Form1_Load);
