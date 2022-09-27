@@ -9,3 +9,14 @@ C:\Users\Сергей\Desktop\Синержи\СиШарп\Converter\obj\Debug\Co
 C:\Users\Сергей\Desktop\Синержи\СиШарп\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
 C:\Users\Сергей\Desktop\Синержи\СиШарп\Converter\obj\Debug\Converter.exe
 C:\Users\Сергей\Desktop\Синержи\СиШарп\Converter\obj\Debug\Converter.pdb
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\bin\Debug\Converter.exe.config
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\bin\Debug\Converter.exe
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\bin\Debug\Converter.pdb
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.csproj.AssemblyReference.cache
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.Converters.resources
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.exe
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.pdb
