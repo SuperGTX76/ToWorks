@@ -13,7 +13,6 @@ C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\bin\Debug
 C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\bin\Debug\Converter.exe
 C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\bin\Debug\Converter.pdb
 C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.csproj.AssemblyReference.cache
-C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.csproj.SuggestedBindingRedirects.cache
 C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.Converters.resources
 C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.Properties.Resources.resources
 C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
