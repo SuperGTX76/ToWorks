@@ -143,7 +143,7 @@ namespace Converter
         {
             var valueToConvert = Convert.ToDouble(_valueToConvert);
             var radians = valueToConvert * Math.PI / 180.0d;
-            var radianText = Convert.ToString(radians); //.Substring(0, MAX_STRING_LENGHT);
+            var radianText = Convert.ToString(radians).Substring(0, MAX_STRING_LENGHT);
 
             if (radianText[radianText.Length - 1] == _comma)
                 radianText = radianText.Remove(radianText.Length - 1, 1);
