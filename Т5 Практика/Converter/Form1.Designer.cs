@@ -46,14 +46,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.RadianLabel = new System.Windows.Forms.Label();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.convertsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.calculateToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.degreesRadiansToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.radiansDegreesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.standartsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ingneringToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // negativeButton
@@ -310,59 +302,6 @@
             this.RadianLabel.TabIndex = 17;
             this.RadianLabel.Text = "0";
             // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.convertsToolStripMenuItem,
-            this.calculateToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(882, 24);
-            this.menuStrip1.TabIndex = 19;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // convertsToolStripMenuItem
-            // 
-            this.convertsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.degreesRadiansToolStripMenuItem,
-            this.radiansDegreesToolStripMenuItem});
-            this.convertsToolStripMenuItem.Name = "convertsToolStripMenuItem";
-            this.convertsToolStripMenuItem.Size = new System.Drawing.Size(66, 20);
-            this.convertsToolStripMenuItem.Text = "Converts";
-            // 
-            // calculateToolStripMenuItem
-            // 
-            this.calculateToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.standartsToolStripMenuItem,
-            this.ingneringToolStripMenuItem});
-            this.calculateToolStripMenuItem.Name = "calculateToolStripMenuItem";
-            this.calculateToolStripMenuItem.Size = new System.Drawing.Size(68, 20);
-            this.calculateToolStripMenuItem.Text = "Calculate";
-            // 
-            // degreesRadiansToolStripMenuItem
-            // 
-            this.degreesRadiansToolStripMenuItem.Name = "degreesRadiansToolStripMenuItem";
-            this.degreesRadiansToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.degreesRadiansToolStripMenuItem.Text = "Degrees/Radians";
-            // 
-            // radiansDegreesToolStripMenuItem
-            // 
-            this.radiansDegreesToolStripMenuItem.Name = "radiansDegreesToolStripMenuItem";
-            this.radiansDegreesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.radiansDegreesToolStripMenuItem.Text = "Radians/Degrees";
-            // 
-            // standartsToolStripMenuItem
-            // 
-            this.standartsToolStripMenuItem.Name = "standartsToolStripMenuItem";
-            this.standartsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.standartsToolStripMenuItem.Text = "Standarts";
-            // 
-            // ingneringToolStripMenuItem
-            // 
-            this.ingneringToolStripMenuItem.Name = "ingneringToolStripMenuItem";
-            this.ingneringToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.ingneringToolStripMenuItem.Text = "Ingnering";
-            // 
             // Converters
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -387,15 +326,11 @@
             this.Controls.Add(this.Comma);
             this.Controls.Add(this.button0);
             this.Controls.Add(this.negativeButton);
-            this.Controls.Add(this.menuStrip1);
             this.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Converters";
             this.Text = "Converters";
             this.Load += new System.EventHandler(this.Form1_Load);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -421,13 +356,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label RadianLabel;
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem convertsToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem degreesRadiansToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem radiansDegreesToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem calculateToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem standartsToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ingneringToolStripMenuItem;
     }
 }
 
