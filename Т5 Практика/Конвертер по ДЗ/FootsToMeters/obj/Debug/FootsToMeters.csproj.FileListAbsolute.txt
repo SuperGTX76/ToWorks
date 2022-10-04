@@ -4,3 +4,13 @@ C:\Users\Сергей\Desktop\Синержи\СиШарп\FootsToMeters\obj\Debu
 C:\Users\Сергей\Desktop\Синержи\СиШарп\FootsToMeters\obj\Debug\FootsToMeters.Properties.Resources.resources
 C:\Users\Сергей\Desktop\Синержи\СиШарп\FootsToMeters\obj\Debug\FootsToMeters.csproj.GenerateResource.cache
 C:\Users\Сергей\Desktop\Синержи\СиШарп\FootsToMeters\obj\Debug\FootsToMeters.csproj.CoreCompileInputs.cache
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Конвертер по ДЗ\FootsToMeters\bin\Debug\FootsToMeters.exe.config
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Конвертер по ДЗ\FootsToMeters\bin\Debug\FootsToMeters.exe
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Конвертер по ДЗ\FootsToMeters\bin\Debug\FootsToMeters.pdb
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Конвертер по ДЗ\FootsToMeters\obj\Debug\FootsToMeters.csproj.AssemblyReference.cache
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Конвертер по ДЗ\FootsToMeters\obj\Debug\FootsToMeters.Form1.resources
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Конвертер по ДЗ\FootsToMeters\obj\Debug\FootsToMeters.Properties.Resources.resources
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Конвертер по ДЗ\FootsToMeters\obj\Debug\FootsToMeters.csproj.GenerateResource.cache
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Конвертер по ДЗ\FootsToMeters\obj\Debug\FootsToMeters.csproj.CoreCompileInputs.cache
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Конвертер по ДЗ\FootsToMeters\obj\Debug\FootsToMeters.exe
+C:\Users\illar\Documents\GitHub\ToWorks\Т5 Практика\Конвертер по ДЗ\FootsToMeters\obj\Debug\FootsToMeters.pdb
