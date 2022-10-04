@@ -151,6 +151,8 @@ namespace FootsToMeters
             var valueToConvert = Convert.ToDouble(_valueToConvert);
             var meters = valueToConvert * 0.30d;
             string meterText2 = Convert.ToString(meters); //.Substring(0, MAX_STRING_LENGHT);
+                                                          //Перечитал кучу литературы по ТуСтринг и Сабстринг, но так и не понял, почему Сабстринг здесь выдает нулл,
+                                                          //хотя в предыдущем варианте кода - все отлично работает
             if (meterText2[meterText2.Length - 1] == _comma)
             meterText2 = meterText2.Remove(meterText2.Length - 1, 1);
             MetersLabel.Text = meterText2;
