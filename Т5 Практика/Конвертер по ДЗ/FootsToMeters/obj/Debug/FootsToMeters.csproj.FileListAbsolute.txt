@@ -1,0 +1,6 @@
+C:\Users\Сергей\Desktop\Синержи\СиШарп\FootsToMeters\obj\Debug\FootsToMeters.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Синержи\СиШарп\FootsToMeters\obj\Debug\FootsToMeters.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей\Desktop\Синержи\СиШарп\FootsToMeters\obj\Debug\FootsToMeters.Form1.resources
+C:\Users\Сергей\Desktop\Синержи\СиШарп\FootsToMeters\obj\Debug\FootsToMeters.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Синержи\СиШарп\FootsToMeters\obj\Debug\FootsToMeters.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\Синержи\СиШарп\FootsToMeters\obj\Debug\FootsToMeters.csproj.CoreCompileInputs.cache
