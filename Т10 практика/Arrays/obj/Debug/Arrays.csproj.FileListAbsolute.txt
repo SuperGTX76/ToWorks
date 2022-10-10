@@ -1,0 +1,7 @@
+C:\Users\illar\Desktop\Синержи\СиШарп\Т10 практика\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\illar\Desktop\Синержи\СиШарп\Т10 практика\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\illar\Desktop\Синержи\СиШарп\Т10 практика\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\illar\Desktop\Синержи\СиШарп\Т10 практика\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\illar\Desktop\Синержи\СиШарп\Т10 практика\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\illar\Desktop\Синержи\СиШарп\Т10 практика\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\illar\Desktop\Синержи\СиШарп\Т10 практика\Arrays\Arrays\obj\Debug\Arrays.pdb
