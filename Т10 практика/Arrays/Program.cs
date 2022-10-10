@@ -18,13 +18,12 @@ namespace Arrays
             {
                 for (int j = 0; j < array.GetLength(1); j++)
                 {   
-                for (int k = 0; k < array.GetLength(2); k++)
+                    for (int k = 0; k < array.GetLength(2); k++)
                     {
-                    array[i, j, k] = x;
-                    Console.WriteLine($"array[{i},{j},{k}] = {array[i, j, k]}");
-                    x++;
-                    if (x > 9) x = 1;
-                    
+                        array[i, j, k] = x;
+                        Console.WriteLine($"array[{i},{j},{k}] = {array[i, j, k]}");
+                        x++;
+                        if (x > 9) x = 1;
                     }
                 }
             }

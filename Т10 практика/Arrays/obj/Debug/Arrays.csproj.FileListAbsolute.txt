@@ -5,3 +5,11 @@ C:\Users\illar\Desktop\Синержи\СиШарп\Т10 практика\Arrays\
 C:\Users\illar\Desktop\Синержи\СиШарп\Т10 практика\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
 C:\Users\illar\Desktop\Синержи\СиШарп\Т10 практика\Arrays\Arrays\obj\Debug\Arrays.exe
 C:\Users\illar\Desktop\Синержи\СиШарп\Т10 практика\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т10 практика\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т10 практика\Arrays\bin\Debug\Arrays.exe
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т10 практика\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т10 практика\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т10 практика\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т10 практика\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т10 практика\Arrays\obj\Debug\Arrays.exe
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т10 практика\Arrays\obj\Debug\Arrays.pdb
