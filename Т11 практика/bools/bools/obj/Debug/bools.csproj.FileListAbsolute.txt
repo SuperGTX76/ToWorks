@@ -1,0 +1,7 @@
+C:\Users\illar\Desktop\Синержи\СиШарп\Т11 практика\bools\bools\obj\Debug\bools.csproj.AssemblyReference.cache
+C:\Users\illar\Desktop\Синержи\СиШарп\Т11 практика\bools\bools\obj\Debug\bools.csproj.CoreCompileInputs.cache
+C:\Users\illar\Desktop\Синержи\СиШарп\Т11 практика\bools\bools\bin\Debug\bools.exe.config
+C:\Users\illar\Desktop\Синержи\СиШарп\Т11 практика\bools\bools\bin\Debug\bools.exe
+C:\Users\illar\Desktop\Синержи\СиШарп\Т11 практика\bools\bools\bin\Debug\bools.pdb
+C:\Users\illar\Desktop\Синержи\СиШарп\Т11 практика\bools\bools\obj\Debug\bools.exe
+C:\Users\illar\Desktop\Синержи\СиШарп\Т11 практика\bools\bools\obj\Debug\bools.pdb
