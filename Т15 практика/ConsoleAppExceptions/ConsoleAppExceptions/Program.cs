@@ -11,8 +11,8 @@ namespace ConsoleAppExceptions
         static void Main(string[] args)
         {
             Console.WriteLine("Вывод исключения деления на 0.");
-            Console.WriteLine("Для выброса исключения необходимо ввести в консоли два числа.");
-            Console.WriteLine("Второе обязательно должно быть нулем.");
+            Console.WriteLine("Для вывода исключения необходимо ввести в консоли два числа.");
+            Console.WriteLine("Второе число обязательно должно быть нулем.");
             Console.WriteLine("После этого выскочит исключение, но программа продолжит работать, ");
             Console.WriteLine("так как мы его перехватим и обработаем.");
 
