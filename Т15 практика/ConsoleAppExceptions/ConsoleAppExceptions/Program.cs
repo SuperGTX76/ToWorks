@@ -25,8 +25,10 @@ namespace ConsoleAppExceptions
 
                 Console.WriteLine("Не, ну как всегда! Просил же - второе число - НОЛЬ!!!");
             }
-            catch(DivideByZeroException)
+            catch(DivideByZeroException ex)
             {
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.TargetSite);
                 Console.WriteLine("Пррраааавильной дорогой идете, товагисчи!!! ");
                 Console.WriteLine("С такими исключениями мы стопудов капиталистов запобедяем!!!");
 

@@ -5,3 +5,10 @@ C:\Users\illar\Desktop\Синержи\СиШарп\Т15 практика\Console
 C:\Users\illar\Desktop\Синержи\СиШарп\Т15 практика\ConsoleAppExceptions\ConsoleAppExceptions\bin\Debug\ConsoleAppExceptions.pdb
 C:\Users\illar\Desktop\Синержи\СиШарп\Т15 практика\ConsoleAppExceptions\ConsoleAppExceptions\obj\Debug\ConsoleAppExceptions.exe
 C:\Users\illar\Desktop\Синержи\СиШарп\Т15 практика\ConsoleAppExceptions\ConsoleAppExceptions\obj\Debug\ConsoleAppExceptions.pdb
+C:\Users\illar\Documents\GitHub\ToWorks\Т15 практика\ConsoleAppExceptions\ConsoleAppExceptions\bin\Debug\ConsoleAppExceptions.exe.config
+C:\Users\illar\Documents\GitHub\ToWorks\Т15 практика\ConsoleAppExceptions\ConsoleAppExceptions\bin\Debug\ConsoleAppExceptions.exe
+C:\Users\illar\Documents\GitHub\ToWorks\Т15 практика\ConsoleAppExceptions\ConsoleAppExceptions\bin\Debug\ConsoleAppExceptions.pdb
+C:\Users\illar\Documents\GitHub\ToWorks\Т15 практика\ConsoleAppExceptions\ConsoleAppExceptions\obj\Debug\ConsoleAppExceptions.csproj.AssemblyReference.cache
+C:\Users\illar\Documents\GitHub\ToWorks\Т15 практика\ConsoleAppExceptions\ConsoleAppExceptions\obj\Debug\ConsoleAppExceptions.csproj.CoreCompileInputs.cache
+C:\Users\illar\Documents\GitHub\ToWorks\Т15 практика\ConsoleAppExceptions\ConsoleAppExceptions\obj\Debug\ConsoleAppExceptions.exe
+C:\Users\illar\Documents\GitHub\ToWorks\Т15 практика\ConsoleAppExceptions\ConsoleAppExceptions\obj\Debug\ConsoleAppExceptions.pdb
