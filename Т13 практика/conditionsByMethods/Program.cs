@@ -14,7 +14,7 @@ namespace conditionsByMethods
             //Заранее инициализируем массивы по заданию - красивее и удобнее, 
             //все в одном месте.
             int[] number = new int[5] { -20, 1, 51, -85, -9 };
-            int[] numberTwo = new int[10];
+            int[] numberTwo = new int[10];  //Для чисел Фибоначчи
             int[] number3 = new int[5] { 6, 31, 1, 45, 54 };
 
 
@@ -53,8 +53,6 @@ namespace conditionsByMethods
                     positiveNumber++;
                 else if (num[i] < 0)
                     negativeNumber++;
-
-
             }
             Console.WriteLine($"Положительных  чисел {positiveNumber} а отрицательных {negativeNumber}");
 
@@ -70,7 +68,7 @@ namespace conditionsByMethods
             int summLastNumbers;
             int lastNumber1 = 1;
             int lastNumber2 = 0;
-            Console.WriteLine("Числа Фиббоначи от 1 до 10 по порядку:");
+            Console.WriteLine("Числа Фибоначчи от 1 до 10 по порядку:");
             for (int i = 0; i < num.Length; i++)
             {
                 summLastNumbers = lastNumber1 + lastNumber2;
