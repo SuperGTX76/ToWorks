@@ -1,0 +1,8 @@
+C:\Users\Сергей\Desktop\Синержи\СиШарп\conditionsByMethods\bin\Debug\conditionsByMethods.exe.config
+C:\Users\Сергей\Desktop\Синержи\СиШарп\conditionsByMethods\bin\Debug\conditionsByMethods.exe
+C:\Users\Сергей\Desktop\Синержи\СиШарп\conditionsByMethods\bin\Debug\conditionsByMethods.pdb
+C:\Users\Сергей\Desktop\Синержи\СиШарп\conditionsByMethods\obj\Debug\conditionsByMethods.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Синержи\СиШарп\conditionsByMethods\obj\Debug\conditionsByMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей\Desktop\Синержи\СиШарп\conditionsByMethods\obj\Debug\conditionsByMethods.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Синержи\СиШарп\conditionsByMethods\obj\Debug\conditionsByMethods.exe
+C:\Users\Сергей\Desktop\Синержи\СиШарп\conditionsByMethods\obj\Debug\conditionsByMethods.pdb
