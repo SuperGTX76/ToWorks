@@ -5,3 +5,11 @@ C:\Users\illar\Desktop\Синержи\СиШарп\Т11 практика\bools\b
 C:\Users\illar\Desktop\Синержи\СиШарп\Т11 практика\bools\bools\bin\Debug\bools.pdb
 C:\Users\illar\Desktop\Синержи\СиШарп\Т11 практика\bools\bools\obj\Debug\bools.exe
 C:\Users\illar\Desktop\Синержи\СиШарп\Т11 практика\bools\bools\obj\Debug\bools.pdb
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т11 практика\bools\bools\bin\Debug\bools.exe.config
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т11 практика\bools\bools\bin\Debug\bools.exe
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т11 практика\bools\bools\bin\Debug\bools.pdb
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т11 практика\bools\bools\obj\Debug\bools.csproj.AssemblyReference.cache
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т11 практика\bools\bools\obj\Debug\bools.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т11 практика\bools\bools\obj\Debug\bools.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т11 практика\bools\bools\obj\Debug\bools.exe
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т11 практика\bools\bools\obj\Debug\bools.pdb
