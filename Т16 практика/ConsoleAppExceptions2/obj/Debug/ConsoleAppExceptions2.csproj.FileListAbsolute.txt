@@ -1,0 +1,8 @@
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т16 практика\ConsoleAppExceptions2\bin\Debug\ConsoleAppExceptions2.exe.config
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т16 практика\ConsoleAppExceptions2\bin\Debug\ConsoleAppExceptions2.exe
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т16 практика\ConsoleAppExceptions2\bin\Debug\ConsoleAppExceptions2.pdb
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т16 практика\ConsoleAppExceptions2\obj\Debug\ConsoleAppExceptions2.csproj.AssemblyReference.cache
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т16 практика\ConsoleAppExceptions2\obj\Debug\ConsoleAppExceptions2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т16 практика\ConsoleAppExceptions2\obj\Debug\ConsoleAppExceptions2.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т16 практика\ConsoleAppExceptions2\obj\Debug\ConsoleAppExceptions2.exe
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т16 практика\ConsoleAppExceptions2\obj\Debug\ConsoleAppExceptions2.pdb
