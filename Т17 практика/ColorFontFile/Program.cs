@@ -11,7 +11,7 @@ namespace ColorFontFile
     {
         static void Main(string[] args)
         {
-            string path = @"C:\123";
+            string path = @"C:\Users\Сергей\Desktop\Синержи\СиШарп\ColorFontFileForTest";
 
             if (Directory.Exists(path))
             {
