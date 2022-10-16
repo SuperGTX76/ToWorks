@@ -1,0 +1,8 @@
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т17 практика\ColorFontFile\bin\Debug\ColorFontFile.exe.config
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т17 практика\ColorFontFile\bin\Debug\ColorFontFile.exe
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т17 практика\ColorFontFile\bin\Debug\ColorFontFile.pdb
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т17 практика\ColorFontFile\obj\Debug\ColorFontFile.csproj.AssemblyReference.cache
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т17 практика\ColorFontFile\obj\Debug\ColorFontFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т17 практика\ColorFontFile\obj\Debug\ColorFontFile.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т17 практика\ColorFontFile\obj\Debug\ColorFontFile.exe
+C:\Users\Сергей\Documents\GitHub\ToWorks\Т17 практика\ColorFontFile\obj\Debug\ColorFontFile.pdb
